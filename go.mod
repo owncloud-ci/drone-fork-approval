@@ -1,9 +1,9 @@
 module github.com/owncloud-ci/drone-fork-approval
 
-go 1.22
+go 1.26.0
 
 require (
-	github.com/caarlos0/env/v10 v10.0.0
+	github.com/caarlos0/env/v11 v11.4.2
 	github.com/drone/drone-go v1.7.1
 	github.com/sirupsen/logrus v1.9.3
 )
